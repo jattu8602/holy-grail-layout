@@ -1,0 +1,12 @@
+
+
+    
+    
+
+      <img src="https://images.pexels.com/photos/236111/pexels-photo-236111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Article Image">
+      <img class="main-img" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Main Content Image">
+      <img src="https://images.pexels.com/photos/760714/pexels-photo-760714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Article Image">
+      <img src="https://images.pexels.com/photos/326502/pexels-photo-326502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Topic Image">
+      <img src="https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Topic Image">
+
+
